@@ -44,4 +44,4 @@
 因此无需对已知区域进行额外约束。
 
 ##模型结构示意图
-[!(structure.jpg)]
+[!(structure.png)]
